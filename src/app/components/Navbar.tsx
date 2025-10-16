@@ -14,7 +14,7 @@ export default function Navbar() {
                 <div className="hidden md:flex gap-8 text-gray-300 font-medium">
                     <a href="#about" className="hover:text-blue-500 transition-colors">About</a>
                     <a href="#projects" className="hover:text-blue-500 transition-colors">Projects</a>
-                    <a href="#contacts" className="hover:text-blue-500 transition-colors">Contact</a>
+                    <a href="#contact" className="hover:text-blue-500 transition-colors">Contact</a>
                 </div>
 
                 <button className="md:hidden text-gray-300 focus:outline-none" 

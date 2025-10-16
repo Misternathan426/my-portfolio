@@ -30,7 +30,7 @@ export default function Hero() {
                     <a href="#projects" className="px-8 py-3 bg-gradient-to-r from-cyan-500 via-blue-600 to-purple-700 text-white font-semibold rounded-lg hover:scale-105 transition-all duration-300">
                         View Projects
                     </a>
-                    <a href="#contacts" className="px-8 py-3 border border-gray-600 text-gray-300 font-semibold rounded-lg hover:bg-gray-800/50 transition-all duration-300">
+                    <a href="#contact" className="px-8 py-3 border border-gray-600 text-gray-300 font-semibold rounded-lg hover:bg-gray-800/50 transition-all duration-300">
                         Contact Me
                     </a>
                 </div>
